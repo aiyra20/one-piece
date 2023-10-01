@@ -11,7 +11,7 @@ main::after {
     min-height: 100vh;
     width: 88vw;
 
-    background: linear-gradient(-233deg, #000000d0 40%, rgba(0, 0, 0, 0) 50%) no-repeat;
+    background: linear-gradient(-233deg, #000 40%, rgba(0, 0, 0, 0) 65%) no-repeat;
     
 }
 
